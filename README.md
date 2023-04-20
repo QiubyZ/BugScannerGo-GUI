@@ -10,3 +10,14 @@ Saya asumsikan bahwa anda telah menginstall [BugScannerGo](https://github.com/az
 agar mengizinkan aplikasi dari luar atau Aplikasi ini, untuk menjalankan TermuxService.
 ![termux](https://github.com/QiubyZ/ffmpegGUI/blob/main/img_1.png)
 3. Berikutanya anda bisa menggunakan Aplikasi ini sebagaimana biasanya.
+
+# Preview Gui App
+
+1. CDN-SSL
+![cdn-ssl](./bugscanner-go1.jpg)
+
+2. Direct Scanner
+![cdn-ssl](./bugscanner-go2.jpg)
+
+3. SNI
+![cdn-ssl](./bugscanner-go3.jpg)
