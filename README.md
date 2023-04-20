@@ -1,6 +1,7 @@
 # Termux-BugScannerGo-GUI
 
-Saya asumsikan bahwa anda telah menginstall [BugScanner-GO](pada Termux Anda dan menggunakan Termux yang berada pada [Fdroid](https://f-droid.org/en/packages/com.termux).
+Saya asumsikan bahwa anda telah menginstall [BugScannerGo](https://github.com/aztecrabbit/bugscanner-go/blob/master/README.md)
+ pada Termux Anda dan menggunakan Termux yang berada pada [Fdroid](https://f-droid.org/en/packages/com.termux).
 1. Pertama - pertama izinkan termux anda untuk membaca Storage penyimpanan File. Dengan menggunakan Perintah 
 ```termux-setup-storage```
 ![termux](https://github.com/QiubyZ/ffmpegGUI/blob/main/img.png)
