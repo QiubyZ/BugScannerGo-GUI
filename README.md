@@ -21,3 +21,9 @@ agar mengizinkan aplikasi dari luar atau Aplikasi ini, untuk menjalankan TermuxS
 
 3. SNI
 ![cdn-ssl](./bugscanner-go3.jpg)
+
+# Support for more features
+
+TrustWallet Address 0x: 0xa1fFcB018e46581f146753aca5Fbf8Faf99161E7
+
+Dana: 082266929573
