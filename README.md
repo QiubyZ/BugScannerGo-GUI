@@ -6,10 +6,11 @@ Saya asumsikan bahwa anda telah menginstall [BugScannerGo](https://github.com/az
 ```termux-setup-storage```
 ![termux](https://github.com/QiubyZ/ffmpegGUI/blob/main/img.png)
 2. Gunakan perintah 
-```echo "allow-external-apps=true" >> ~/.termux/termux.properties```
+```sh
+echo "allow-external-apps=true" >> ~/.termux/termux.properties```
 agar mengizinkan aplikasi dari luar atau Aplikasi ini, untuk menjalankan TermuxService.
 ![termux](https://github.com/QiubyZ/ffmpegGUI/blob/main/img_1.png)
-3. Berikutanya anda bisa menggunakan Aplikasi ini sebagaimana biasanya.
+4. Berikutanya anda bisa menggunakan Aplikasi ini sebagaimana biasanya.
 
 # Preview Gui App
 
